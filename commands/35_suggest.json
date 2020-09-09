@@ -5,7 +5,7 @@
   "actions": [
     {
       "info": "1",
-      "find": "suggestions",
+      "find": "𝑺𝒖𝒈𝒈𝒆𝒔𝒕𝒊𝒐𝒏𝒔",
       "storage": "1",
       "varName": "channel",
       "name": "Find Channel"
@@ -160,3 +160,4 @@
   "comType": "0",
   "_id": "wwMVa"
 }
+
